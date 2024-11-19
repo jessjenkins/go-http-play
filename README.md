@@ -1,2 +1,2 @@
 # go-http-play
-PLaying with http
+Playing with http
